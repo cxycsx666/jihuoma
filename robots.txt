@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# 禁止访问的目录
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /tags/
+
+# Sitemap位置
+Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://yourdomain.com/baidusitemap.xml
